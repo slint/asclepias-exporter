@@ -3,7 +3,7 @@ message: "If you use this software, please cite this DOI."
 authors:
   - family-names: Ioannidis
     given-names: Alex
-    orcid: https://orcid.org/0000-0000-0000-0000
+    orcid: https://orcid.org/0000-0002-5082-6404
 title: Asclepias Exporter software
 license: MIT
 version: v1.7.0
