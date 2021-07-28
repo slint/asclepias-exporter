@@ -4,6 +4,7 @@ authors:
   - family-names: Ioannidis
     given-names: Alex
     orcid: https://orcid.org/0000-0002-5082-6404
+license: MIT
 title: "Asclepias Exporter"
 doi: 10.5281/zenodo.1234
 date-released: 2021-07-06
